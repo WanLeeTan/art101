@@ -1,0 +1,13 @@
+span {
+    color: #74569b;
+    font-family: "Helvetica";
+    font-size: 120%
+}
+
+#content {
+    width: 1000px;
+    min-height: 300px;
+    padding: 50px;
+    margin: 10px;
+    font-size: 20px;
+}
